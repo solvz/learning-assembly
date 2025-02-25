@@ -2,9 +2,9 @@
 Snippets of code while learning assembly
 
 ## Done:
+- Hello World
 
 ## To Do:
-- Hello World
 - Calculator
 - Bubble Sort
 - String Length
