@@ -1,2 +1,2 @@
 # learning-assembly
-Some files of me learning assembly
+Snippets of code while learning assembly
