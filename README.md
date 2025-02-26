@@ -3,10 +3,10 @@ Snippets of code while learning assembly
 
 ## Done:
 - Hello World
+- Bubble Sort
 
 ## To Do:
 - Calculator
-- Bubble Sort
 - String Length
 - String Reverse
 - Linear Search
